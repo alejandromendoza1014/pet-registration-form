@@ -1,3 +1,3 @@
 # pet-registration-form
-# Alejandro Mendiza
+# Alejandro Mendoza
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/locbaodo/pet-registration-form)
